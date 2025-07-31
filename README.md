@@ -1,1 +1,4 @@
-Micrograd : The Autograd Engine Implmentaton from Karapathy's Video
+Micrograd : The Autograd Engine Implmentaton from Karapathy's Video..
+
+
+
